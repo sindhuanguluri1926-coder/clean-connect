@@ -465,6 +465,7 @@ export const CitizenPortal: React.FC = () => {
       {/* VOICE ASSISTANT MODAL OVERLAY */}
       {isVoiceModalOpen && (
         <VoiceAssistantModal
+          onPhotoCaptured={handlePhotoCaptured}
           isOpen={isVoiceModalOpen}
           onClose={() => setIsVoiceModalOpen(false)}
           hasPhoto={!!capturedPhoto}

@@ -4,9 +4,7 @@ export const te: Record<TranslationKey, string> = {
   // Header & Navigation
   brandName: 'స్వచ్ఛ',
   brandTagline: 'AI ఆధారిత వ్యర్థాల విభజన & శుభ్రత',
-  sihHeader: 'SIH సమస్య ప్రకటన 26195 ప్రోటోటైప్',
   sihSubheader: 'క్లీన్ & గ్రీన్ టెక్నాలజీ • వ్యర్థాల విభజన & మెరుగైన పారిశుద్ధ్యం',
-  resetDemo: 'డెమో రీసెట్',
   activeRole: 'ప్రస్తుత మోడ్',
   navOverview: 'అవలోకనం',
   navCitizen: 'పౌర పోర్టల్',
@@ -18,7 +16,6 @@ export const te: Record<TranslationKey, string> = {
   roleLanding: 'సిస్టమ్ అవలోకనం',
 
   // Landing Page
-  heroBadge: 'స్మార్ట్ ఇండియా హ్యాకథాన్ 2026 • సమస్య #26195',
   heroTitle1: 'చెత్త ఫోటో నుండి',
   heroTitle2: 'ధృవీకరించిన పరిష్కారం వరకు.',
   heroDescription: 'పౌరులను పారిశుద్ధ్య కార్మికులతో అనుసంధానించే వాస్తవిక, సరళమైన AI వేదిక. పౌరులు కేవలం ఫోటో తీసి సమర్పిస్తే చాలు; AI వ్యర్థాల విభజన ప్రణాళికను తయారు చేస్తుంది; కార్మికులు శుభ్రపరిచి కెమెరా ద్వారా ధృవీకరిస్తారు.',
